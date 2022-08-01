@@ -1,1 +1,1 @@
-Just some trials with SQLAlchemy 
+Just some trials with SQLAlchemy and Psycopg2
